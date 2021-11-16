@@ -1,2 +1,2 @@
-# movilizarte
-Sitio web creado para pagina grupal
+# Movilizarte
+Sitio web creado para pagina de proyecto grupal
